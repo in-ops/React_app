@@ -1,7 +1,9 @@
 
 
 function Addition() {
-  return <h3>Addition Component</h3>;
+  return {
+        
+  };
 }
 
 export default Addition;
